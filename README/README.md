@@ -19,7 +19,7 @@ Check out the live demo here: Stopwatch Demo (https://bogdan1412.github.io/Stopw
 
 🎮 How to Use
 
-1. Clone the repository to your local machine: git clone https://github.com/Bogdan1412/stopwatch.git
+1. Clone the repository to your local machine: git clone https://github.com/Bogdan1412/Stopwatch-
 
 2. Navigate to the project folder: cd stopwatch
 
@@ -43,4 +43,4 @@ Contributions are welcome! If you find any issues or have ideas for improvement,
 📬 Contact
 • Author: Bogdan Savchuk
 • GitHub: Bogdan1412
-• Demo: Stopwatch Demo (https://bogdan1412.github.io/Stopwatch/)
+• Demo: Stopwatch Demo (https://bogdan1412.github.io/Stopwatch-/)

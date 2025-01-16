@@ -18,7 +18,7 @@ function updateTimerDisplay() {
 
 function startTimer() {
 	startTime = Date.now();
-	timerInterval = setInterval(updateTimerDisplay, 100);
+	timerInterval = setInterval(updateTimerDisplay, 10);
 	startButton.disabled = true;
 	stopButton.disabled = false;
 	resetButton.disabled = false;

@@ -4,7 +4,7 @@ A simple and responsive stopwatch built with HTML, SCSS, and JavaScript. It prov
 
 🚀 Demo
 
-Check out the live demo here: Stopwatch Demo (https://bogdan1412.github.io/Stopwatch/)
+Check out the live demo here: Stopwatch Demo (https://bogdan1412.github.io/Stopwatch-/)
 
 📜 Features
 • Start/Stop Timer: Start or pause the timer with a single click.
@@ -27,7 +27,7 @@ Check out the live demo here: Stopwatch Demo (https://bogdan1412.github.io/Stopw
 
 📷 Screenshots
 
-![Stopwatch](screenshot/screenshot.png)
+![Stopwatch](https://bogdan1412.github.io/Stopwatch-/)
 
 🎨 Customization
 

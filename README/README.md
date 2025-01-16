@@ -27,7 +27,7 @@ Check out the live demo here: Stopwatch Demo (https://bogdan1412.github.io/Stopw
 
 📷 Screenshots
 
-![Stopwatch](https://bogdan1412.github.io/Stopwatch-/)
+![Stopwatch](screenshot/screenshot.png)
 
 🎨 Customization
 

@@ -1,0 +1,86 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #2c3e50;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+.stopwatch {
+  background: #1a252f;
+  padding: 20px 30px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+.stopwatch .timer {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.stopwatch .controls {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 10px;
+}
+.stopwatch .controls .btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.stopwatch .controls .btn.start {
+  background: #3498db;
+  color: white;
+  -webkit-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+}
+.stopwatch .controls .btn.start:hover:not(:disabled) {
+  background: #5faee3;
+}
+.stopwatch .controls .btn.start:disabled {
+  background: #507192;
+  cursor: not-allowed;
+}
+.stopwatch .controls .btn.stop {
+  background: #e74c3c;
+  color: white;
+  -webkit-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+}
+.stopwatch .controls .btn.stop:hover:not(:disabled) {
+  background: #ed7669;
+}
+.stopwatch .controls .btn.stop:disabled {
+  background: #507192;
+  cursor: not-allowed;
+}
+.stopwatch .controls .btn.reset {
+  background: #2ecc71;
+  color: white;
+  -webkit-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+}
+.stopwatch .controls .btn.reset:hover:not(:disabled) {
+  background: #54d98c;
+}
+.stopwatch .controls .btn.reset:disabled {
+  background: #507192;
+  cursor: not-allowed;
+}
